@@ -38,7 +38,7 @@ const Navbar = () => {
         href="/"
         className="text-2xl font-bold text-blue-400 hover:opacity-90 transition"
       >
-        BlogsApp
+        Blogsbook
       </Link>
 
       <div className="flex gap-4 items-center text-sm font-medium">
